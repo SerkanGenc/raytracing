@@ -1,0 +1,4 @@
+* { box-sizing: border-box;}
+canvas { border: 1px solid black; }
+#panel { text-align: center;}
+h1 { text-align: center;}
